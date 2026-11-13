@@ -32,7 +32,7 @@
 
 Hi! I'm **Fathur Rohman**, a **5th-semester Informatics Engineering (S1 Teknik Informatika)** student at **Universitas Stikubank (UNISBANK) Semarang** with a vocational background in **Software Engineering (RPL)**, and **Co-Founder & Lead UI/UX Designer** at **[NewSaint Digital Solutions (NEWSAINT)](https://newsaint.id)**.
 
-- **Co-Founder & Lead UI/UX Designer / Product Strategist @ [NEWSAINT](https://newsaint.id)** *(PT Selaras Digital Labs, Semarang)*: Building digital products in a 3-person core team — leading **UI/UX Design, Design Systems, User Research, Figma**, and **Product Strategy** for websites, SaaS platforms, e-commerce, and company profiles.
+- **Co-Founder & Lead UI/UX Designer / Product Strategist @ [NEWSAINT](https://newsaint.id)** *(Semarang)*: Building digital products in a 3-person core team — leading **UI/UX Design, Design Systems, User Research, Figma**, and **Product Strategy** for websites, SaaS platforms, e-commerce, and company profiles.
 - **Web & Software Development:** Building responsive web apps and RESTful APIs using **HTML, CSS, JavaScript, TypeScript, Next.js, React, Node.js, Express, NestJS, PHP & Laravel**.
 - **Databases:** Experience working with relational and NoSQL databases (**MySQL, PostgreSQL & MongoDB**).
 - **Graphic Design & Publications:** Creating event posters, banners (MMT), Instagram puzzle feeds, certificates & ID cards with **Canva**.
@@ -43,7 +43,7 @@ Hi! I'm **Fathur Rohman**, a **5th-semester Informatics Engineering (S1 Teknik I
 
 ### Venture & Co-Founded Business
 
-> **[NewSaint Digital Solutions (NEWSAINT)](https://newsaint.id)** — *PT Selaras Digital Labs (Semarang, Indonesia)*  
+> **[NewSaint Digital Solutions (NEWSAINT)](https://newsaint.id)** — *Semarang, Indonesia*  
 > Co-founded with 2 engineering partners as a lean 3-person **Digital Product & Technology Studio** delivering custom web applications, SaaS systems, e-commerce platforms, AI bot automation, and modern UI/UX design.  
 > **My Role:** `Co-Founder` • `Lead UI/UX Designer` • `Product Strategist` *(Design Systems, User Research, Figma, Product Strategy)*
 
