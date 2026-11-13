@@ -9,7 +9,7 @@
   <a href="https://fathur-rohman-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio_Website-Live_on_Vercel-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
   </a>
-  <a href="https://fathur-rohman-portfolio.vercel.app/CV%20ku.pdf?v=20261113">
+  <a href="https://fathur-rohman-portfolio.vercel.app/CV%20ku.pdf?v=20261113b">
     <img src="https://img.shields.io/badge/Curriculum_Vitae-PDF-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
   </a>
   <a href="mailto:frohmannew@gmail.com">
@@ -27,7 +27,7 @@
 
 ### About Me
 
-Hi! I'm **Fathur Rohman**, a **5th-semester Informatics Engineering (S1 Teknik Informatika)** student at **Universitas Stikubank (Unisbank) Semarang** with a vocational background in **Software Engineering (RPL)**.
+Hi! I'm **Fathur Rohman**, a **5th-semester Informatics Engineering (S1 Teknik Informatika)** student at **Universitas Stikubank (UNISBANK) Semarang** with a vocational background in **Software Engineering (RPL)**.
 
 - **Web & Software Development:** Building responsive web apps and RESTful APIs using **HTML, CSS, JavaScript, TypeScript, Next.js, Node.js, Express, NestJS, PHP & Laravel**.
 - **Databases:** Experience working with relational and NoSQL databases (**MySQL, PostgreSQL & MongoDB**).
@@ -70,8 +70,8 @@ Hi! I'm **Fathur Rohman**, a **5th-semester Informatics Engineering (S1 Teknik I
 
 ### Campus Organizations (2024 – 2027)
 
-- **Dewan Perwakilan Mahasiswa (DPM) Unisbank** — *Departemen Infokom (2026–2027)*
-- **Paguyuban Bidikmisi Unisbank (PADIKSI)** — *Koordinator Infokom (2026–2027) • Anggota (2024–2026)*
+- **Dewan Perwakilan Mahasiswa (DPM) UNISBANK** — *Departemen Infokom (2026–2027)*
+- **Paguyuban Bidikmisi UNISBANK (PADIKSI)** — *Koordinator Infokom (2026–2027) • Anggota (2024–2026)*
 - **Himpunan Mahasiswa Teknik Informatika (HMPS-TI)** — *Staff Desain (2024–2027)*
-- **UKM Multimedia / Unisbank Media Center (UMC)** — *Departemen Produksi (2024–2027)*
-- **UKM Bulu Tangkis Unisbank** — *Koordinator PDD (2026–2027) • Divisi PERKAP (2024–2026)*
+- **UKM Multimedia / UNISBANK Media Center (UMC)** — *Departemen Produksi (2024–2027)*
+- **UKM Bulu Tangkis UNISBANK** — *Koordinator PDD (2026–2027) • Divisi PERKAP (2024–2026)*
