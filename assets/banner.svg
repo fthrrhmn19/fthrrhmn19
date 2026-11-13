@@ -5,7 +5,7 @@
       <stop offset="55%" stop-color="#0f172e"/>
       <stop offset="100%" stop-color="#131936"/>
     </linearGradient>
-    <linearGradient id="tileBg" x1="60" y1="70" x2="200" y2="210" gradientUnits="userSpaceOnUse">
+    <linearGradient id="tileBg" x1="56" y1="70" x2="196" y2="210" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#151c3b"/>
       <stop offset="100%" stop-color="#090d1e"/>
     </linearGradient>
@@ -23,52 +23,43 @@
     </pattern>
   </defs>
 
-  <!-- Base Frame -->
   <rect x="2" y="2" width="1196" height="276" rx="20" fill="url(#bgMain)" stroke="#273463" stroke-width="2"/>
   <rect x="2" y="2" width="1196" height="276" rx="20" fill="url(#grid)"/>
+  <path d="M40 3H380" stroke="#38bdf8" stroke-opacity="0.45" stroke-width="2" stroke-linecap="round"/>
 
-  <!-- Top Subtle Accent Line -->
-  <path d="M40 3H360" stroke="#38bdf8" stroke-opacity="0.45" stroke-width="2" stroke-linecap="round"/>
+  <rect x="52" y="70" width="140" height="140" rx="34" fill="url(#tileBg)" stroke="#2c3a6f" stroke-width="3.5"/>
+  <rect x="57" y="75" width="130" height="130" rx="29" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1.5"/>
+  <path d="M79 114.6C79 112.78 80.48 111.3 82.3 111.3H114.4L111.1 122.7H90.8V134H107.4L104.1 145.2H90.8V164.8C90.8 166.62 89.32 168.1 87.5 168.1H82.3C80.48 168.1 79 166.62 79 164.8V114.6Z" fill="#F8FAFC"/>
+  <path d="M123.2 111.3H133.0L116.6 168.1H106.8L123.2 111.3Z" fill="url(#slashGrad)"/>
+  <path d="M139.2 119H150.8L164.8 139.7L150.8 160.4H139.2L153.2 139.7L139.2 119Z" fill="url(#chevGrad)"/>
 
-  <!-- Bespoke F/> Brand Tile (Scaled cleanly inside 60..200, 70..210) -->
-  <rect x="56" y="70" width="140" height="140" rx="34" fill="url(#tileBg)" stroke="#2c3a6f" stroke-width="3.5"/>
-  <rect x="61" y="75" width="130" height="130" rx="29" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1.5"/>
-  <!-- 'F' -->
-  <path d="M83 114.6C83 112.78 84.48 111.3 86.3 111.3H118.4L115.1 122.7H94.8V134H111.4L108.1 145.2H94.8V164.8C94.8 166.62 93.32 168.1 91.5 168.1H86.3C84.48 168.1 83 166.62 83 164.8V114.6Z" fill="#F8FAFC"/>
-  <!-- '/' -->
-  <path d="M127.2 111.3H137.0L120.6 168.1H110.8L127.2 111.3Z" fill="url(#slashGrad)"/>
-  <!-- '>' -->
-  <path d="M143.2 119H154.8L168.8 139.7L154.8 160.4H143.2L157.2 139.7L143.2 119Z" fill="url(#chevGrad)"/>
+  <text x="224" y="88" fill="#38bdf8" font-family="'JetBrains Mono', 'Cascadia Code', 'Consolas', monospace" font-size="13.5" font-weight="700" letter-spacing="1.2">// INFORMATICS ENG. (SEM. 5) @ UNISBANK  •  CO-FOUNDER @ NEWSAINT</text>
+  <text x="222" y="142" fill="#F8FAFC" font-family="'Plus Jakarta Sans', 'Segoe UI', 'Arial', sans-serif" font-size="47" font-weight="800" letter-spacing="-0.8">Fathur Rohman</text>
+  <text x="224" y="178" fill="#CBD5E1" font-family="'Plus Jakarta Sans', 'Segoe UI', 'Arial', sans-serif" font-size="19" font-weight="500">Web &amp; Software Dev  •  Co-Founder &amp; Lead UI/UX @ NEWSAINT</text>
 
-  <!-- Main Typography Block -->
-  <text x="232" y="88" fill="#38bdf8" font-family="'JetBrains Mono', 'Cascadia Code', 'Consolas', monospace" font-size="14" font-weight="700" letter-spacing="1.6">// INFORMATICS ENGINEERING • SEMESTER 5 • UNISBANK</text>
-  <text x="230" y="142" fill="#F8FAFC" font-family="'Plus Jakarta Sans', 'Segoe UI', 'Arial', sans-serif" font-size="48" font-weight="800" letter-spacing="-0.8">Fathur Rohman</text>
-  <text x="232" y="178" fill="#CBD5E1" font-family="'Plus Jakarta Sans', 'Segoe UI', 'Arial', sans-serif" font-size="20" font-weight="500">Web &amp; Software Developer  •  REST APIs  •  Graphic Design (Canva)</text>
+  <rect x="224" y="200" width="166" height="32" rx="8" fill="#121a36" stroke="#2c3a6f" stroke-width="1.2"/>
+  <text x="307" y="221" text-anchor="middle" fill="#E2E8F0" font-family="'Segoe UI', 'Arial', sans-serif" font-size="13" font-weight="600">Semarang, Indonesia</text>
 
-  <!-- Clean Status Pills -->
-  <rect x="232" y="200" width="168" height="32" rx="8" fill="#121a36" stroke="#2c3a6f" stroke-width="1.2"/>
-  <text x="316" y="221" text-anchor="middle" fill="#E2E8F0" font-family="'Segoe UI', 'Arial', sans-serif" font-size="13" font-weight="600">Semarang, Indonesia</text>
+  <rect x="402" y="200" width="234" height="32" rx="8" fill="#121a36" stroke="#2c3a6f" stroke-width="1.2"/>
+  <text x="519" y="221" text-anchor="middle" fill="#c4b5fd" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12.5" font-weight="600">UI/UX • Next • Node • PHP</text>
 
-  <rect x="412" y="200" width="234" height="32" rx="8" fill="#121a36" stroke="#2c3a6f" stroke-width="1.2"/>
-  <text x="529" y="221" text-anchor="middle" fill="#c4b5fd" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12.5" font-weight="600">Next.js • Node • NestJS • PHP</text>
+  <rect x="648" y="200" width="164" height="32" rx="8" fill="#0d2238" stroke="#0284c7" stroke-opacity="0.65" stroke-width="1.2"/>
+  <circle cx="673" cy="216" r="4.5" fill="#10b981"/>
+  <text x="740" y="221" text-anchor="middle" fill="#7dd3fc" font-family="'Segoe UI', 'Arial', sans-serif" font-size="13" font-weight="600">newsaint.id</text>
 
-  <rect x="658" y="200" width="184" height="32" rx="8" fill="#0d2238" stroke="#0284c7" stroke-opacity="0.65" stroke-width="1.2"/>
-  <circle cx="675" cy="216" r="4.5" fill="#10b981"/>
-  <text x="760" y="221" text-anchor="middle" fill="#7dd3fc" font-family="'Segoe UI', 'Arial', sans-serif" font-size="13" font-weight="600">Open to Opportunities</text>
+  <rect x="832" y="42" width="330" height="196" rx="14" fill="#070b18" stroke="#24315c" stroke-width="1.5"/>
+  <rect x="832" y="42" width="330" height="32" rx="14" fill="#101733"/>
+  <rect x="832" y="62" width="330" height="12" fill="#101733"/>
+  <circle cx="854" cy="58" r="5" fill="#ef4444" fill-opacity="0.85"/>
+  <circle cx="872" cy="58" r="5" fill="#f59e0b" fill-opacity="0.85"/>
+  <circle cx="890" cy="58" r="5" fill="#10b981" fill-opacity="0.85"/>
+  <text x="997" y="62" text-anchor="middle" fill="#94a3b8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="11.5">profile.ts</text>
 
-  <!-- Right Terminal Code Snippet Window -->
-  <rect x="862" y="42" width="292" height="196" rx="14" fill="#070b18" stroke="#24315c" stroke-width="1.5"/>
-  <rect x="862" y="42" width="292" height="32" rx="14" fill="#101733"/>
-  <rect x="862" y="62" width="292" height="12" fill="#101733"/>
-  <circle cx="884" cy="58" r="5" fill="#ef4444" fill-opacity="0.85"/>
-  <circle cx="902" cy="58" r="5" fill="#f59e0b" fill-opacity="0.85"/>
-  <circle cx="920" cy="58" r="5" fill="#10b981" fill-opacity="0.85"/>
-  <text x="1008" y="62" text-anchor="middle" fill="#94a3b8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="11.5">profile.ts</text>
-
-  <text x="882" y="100" fill="#a78bfa" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13">const <tspan fill="#f8fafc">fathur</tspan> <tspan fill="#38bdf8">=</tspan> &#123;</text>
-  <text x="898" y="125" fill="#94a3b8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13">focus: <tspan fill="#7dd3fc">"Full-Stack &amp; API"</tspan>,</text>
-  <text x="898" y="150" fill="#94a3b8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13">stack: <tspan fill="#86efac">["Next", "Node", "PHP"]</tspan>,</text>
-  <text x="898" y="175" fill="#94a3b8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13">design: <tspan fill="#f9a8d4">"Canva Visuals"</tspan>,</text>
-  <text x="898" y="200" fill="#94a3b8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13">study: <tspan fill="#fde68a">"UNISBANK Sem. 5"</tspan></text>
-  <text x="882" y="222" fill="#a78bfa" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="13">&#125;;</text>
+  <text x="850" y="98" fill="#a78bfa" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12.5">const <tspan fill="#f8fafc">fathur</tspan> <tspan fill="#38bdf8">=</tspan> &#123;</text>
+  <text x="864" y="122" fill="#94a3b8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12">studio: <tspan fill="#7dd3fc">"NEWSAINT (newsaint.id)"</tspan>,</text>
+  <text x="864" y="145" fill="#94a3b8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12">role: <tspan fill="#f9a8d4">"Co-Founder &amp; Lead UI/UX"</tspan>,</text>
+  <text x="864" y="168" fill="#94a3b8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12">stack: <tspan fill="#86efac">["Next", "Node", "PHP"]</tspan>,</text>
+  <text x="864" y="191" fill="#94a3b8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12">ide: <tspan fill="#c4b5fd">"VSCode•Antigravity•Codex"</tspan>,</text>
+  <text x="864" y="214" fill="#94a3b8" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12">study: <tspan fill="#fde68a">"UNISBANK Sem. 5"</tspan></text>
+  <text x="850" y="230" fill="#a78bfa" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="12.5">&#125;;</text>
 </svg>
